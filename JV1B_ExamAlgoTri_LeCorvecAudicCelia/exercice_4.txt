@@ -1,0 +1,3 @@
+Le tri à bulles est considéré comme très lent car, on doit parcourir chaque éléments d'un tableau et répéter les/la condition(s) autant de fois qu'il y a d'élément dans le tableau en stokant les information précedente.
+Donc tout cela prend bien evidement du temps et de l espace.
+Cela peu prendre plusieur secondes ou quelques mininutes.Tout dépend des condictions, donc des actions que doit exécuter le tri a bulle car plus il y a de d'action plus le temps est multiplier passant de moins d'une seconde à plusieur secondes.
